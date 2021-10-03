@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋
 
-<!--
-**onurersen/onurersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Onur, I live in the Netherlands and I am currently working in banking sector.  
+My background is in Computer Engineering, and I have been working for different sectors throughout my professional career.  
+I’m currently working as a team leader but not giving up on my technical capabilities. 
 
-Here are some ideas to get you started:
+You can check my resume, my github.io page for more details about myself and what I’m up to these days.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Azure DevOps, Java 11, Go, Kubernetes and whatever I just bump into.
+
+- I created a Youtube channel, and a podcast.  
+  📺 Türkçe Kubernetes @ Youtube  
+  🎧 Rota Hollanda @ Spotify
+  
+- 📫  Feel free to contact/connect on Linkedin.
+ 
+Have a perfect day!!
